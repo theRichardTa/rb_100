@@ -1,4 +1,4 @@
-# use a for loop to greet eacg friend individually
+# use a for loop to greet each friend individually
 
 friends = ['Sarah', 'John', 'Hannah', 'Dave']
 
